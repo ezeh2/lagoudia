@@ -10,5 +10,5 @@ Following the advantages Lagoudia offers compared to classic web form creation:
 
 
 Following the advantages of lagoudia compared to templating-engines such as moustache or handlebar:
-* No need anymore to define template-sections with cryptic and templatng-engines specific syntax.
+* No need anymore to define template-sections with cryptic and templating-engines specific syntax.
 * As there is no templating-sections anymore, it is much easier to use the same form on several pages.
