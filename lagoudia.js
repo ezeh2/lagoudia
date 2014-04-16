@@ -1,7 +1,7 @@
 ﻿
 
 
-// Immediately Invoked Function Expression (IIFE)
+// Immediately Invoked Function Expression (IIFE) (2)
 // So how then do we define more functions without cluttering the namespace and 
 // without exposing the implementation? This is a job for closures.
 // closure vs. Immediately Invoked Function Expression: http://benalman.com/news/2010/11/immediately-invoked-function-expression/#iife
